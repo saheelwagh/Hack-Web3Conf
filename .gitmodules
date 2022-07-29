@@ -1,0 +1,3 @@
+[submodule "hackweb3conf-app"]
+	path = hackweb3conf-app
+	url = git@github.com:saheelwagh/hackweb3conf-app.git
